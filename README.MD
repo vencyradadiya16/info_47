@@ -31,16 +31,6 @@ Calculates simple interest using the formula: SI = (P*R*N)/100.
 
 
 
-gh repo create info_about_me_51 --public
-gh auth login
-git init 
-git add .
-git commit -m "first commit by me"
-git remote add origin https://github.com/Hamzamirza9084/info_about_me_51.git
-git push origin main 
-
-
-
 
 
 
